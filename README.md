@@ -17,4 +17,4 @@ choose a delivery address, and review their past orders.
 - **Profile:** edit profile details, upload a profile photo, view badges, and delete your account
 
 
-[https://www.figma.com/proto/xvtsRaZXCX817RmcKLg7jm/Weekend-Bytes] (https://figma.com)
+Figma: [https://www.figma.com/proto/xvtsRaZXCX817RmcKLg7jm/Weekend-Bytes] 
